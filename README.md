@@ -1,5 +1,10 @@
 # Antarctica_Today
+
 The "Antarctica Today" code and datasets necessary to create the database, update it, and generate plots and maps of results.
+
+## Environment
+
+## Generating Antarctica Today Maps
 
 ## Directories:
 
